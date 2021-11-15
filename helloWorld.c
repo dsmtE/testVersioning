@@ -1,4 +1,7 @@
 #include <stdio.h>
+int multiplyByFactor(int number, int factor) {
+   return number * factor;
+}
 
 int multiplyByTwo(int number) {
    return number * 2;
@@ -9,7 +12,7 @@ int main() {
    printf("Salut, Imac!");
 
    int a = 42;
-   int b = multiplyByTwo(a);
+   int b = multiplyByFactor(a, 2);
    
    return 0;
 }
