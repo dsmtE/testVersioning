@@ -10,9 +10,9 @@ int multiplyByTwo(int number) {
 int main() {
    // printf() displays the string inside quotation
    printf("Salut, Imac!");
-
+qzdqd
    int a = 42;
    int b = multiplyByFactor(a, 2);
-   
+   1848
    return 0;
 }
