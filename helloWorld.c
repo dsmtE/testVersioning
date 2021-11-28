@@ -1,6 +1,6 @@
 #include <stdio.h>
 int multiplyByFactor(int number, int factor) {
-   return number * factor;
+   return number * factor * factor;
 }
 
 int multiplyByTwo(int number) {
