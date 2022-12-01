@@ -6,7 +6,7 @@ int multiplyByFactor(int number, int factor) {
 
 int main() {
    // printf() displays the string inside quotation
-   printf("Salut, Imac!");
+   printf("Salut, test!");
 
    int a = 42;
    int b = multiplyByFactor(a, 2);
